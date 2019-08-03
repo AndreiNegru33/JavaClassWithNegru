@@ -1,4 +1,4 @@
-package com.JavaTraining;
+package src.com.JavaTraining;
 
 public class Main {
 
@@ -7,5 +7,6 @@ public class Main {
 
         System.out.println("Hello World!");
         System.out.println("Hello Git!");
+        System.out.println("Hello Alex!");
     }
 }
